@@ -1,0 +1,20 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Hector's Website"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+github = "https://github.com/HectorLeeYE"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
+
+["params.author"]
+name = "Hector Lee"
