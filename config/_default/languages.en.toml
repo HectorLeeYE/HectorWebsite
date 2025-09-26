@@ -2,12 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
+title = "Hector's Website"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+description = "Hector's Website and Blog. Contains projects, writeups, learnings"
 
 [[params.author.links]]
 github = "https://github.com/HectorLeeYE"
@@ -15,6 +17,11 @@ github = "https://github.com/HectorLeeYE"
 [[params.author.links]]
 linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
 
+[[params.author.links]]
+telegram = "https://t.me/schrodingers_skirt"
+
 ["params.author"]
 name = "Hector Lee"
 image = "photo_6181697939408274229_y.jpg"
+headline = "Documenting my CS and Cybersecurity Journey"
+bio = "Hi I'm Hector, a 24 Year Old CS student in SMU, specialising in Cybersecurity. Thanks for reading!"

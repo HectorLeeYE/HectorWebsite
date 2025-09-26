@@ -7,5 +7,11 @@ pageRef = "posts"
 identifier = "hFLLmtecPq"
 weight = 9_999
 
+[[main]]
+name = "CTFs"
+pageRef = "ctfs"
+identifier = "X01TxeUmpl"
+weight = 9_999
+
 [[footer]]
 none = "none"
