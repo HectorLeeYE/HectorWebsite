@@ -2,7 +2,6 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Hector's Website"
 
 [params]
 displayName = "EN"
@@ -18,3 +17,4 @@ linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
 
 ["params.author"]
 name = "Hector Lee"
+image = "photo_6181697939408274229_y.jpg"
